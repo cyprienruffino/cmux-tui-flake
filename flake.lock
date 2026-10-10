@@ -1,0 +1,47 @@
+{
+  "nodes": {
+    "cmux": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1791584217,
+        "narHash": "sha256-poc+Jf6Y6qcK0/ArQ3XDuxCFISLrp7AJo+lMVCLqjFs=",
+        "ref": "refs/heads/main",
+        "rev": "48ba2090321ff4eb8222582ad1b7e03613d39d81",
+        "shallow": true,
+        "submodules": true,
+        "type": "git",
+        "url": "https://github.com/manaflow-ai/cmux"
+      },
+      "original": {
+        "shallow": true,
+        "submodules": true,
+        "type": "git",
+        "url": "https://github.com/manaflow-ai/cmux"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1791426274,
+        "narHash": "sha256-MWhktfFtFE8Jl7bf9Pkp7TR5MSdYCjCswSo0Gkb4ywc=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "7c8764b7c7b09b34f632464276218ef9090eaa11",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-26.05",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "cmux": "cmux",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
