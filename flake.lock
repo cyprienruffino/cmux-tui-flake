@@ -3,10 +3,10 @@
     "cmux": {
       "flake": false,
       "locked": {
-        "lastModified": 1791620100,
-        "narHash": "sha256-1KV6gVga2aXTxC/vhKaiHlVmuM4MNfSAJ4TE9Hng+bs=",
+        "lastModified": 1791812519,
+        "narHash": "sha256-+ti8L08BPeBs1kn5L5DR0N74VqsViD7y5QvNvjWiZrI=",
         "ref": "refs/heads/main",
-        "rev": "20b2bdd27aff5ea4d0edff5ebc984175671b69e1",
+        "rev": "3e0aabd2133eaf144aed507291b5456e1d68a65f",
         "shallow": true,
         "submodules": true,
         "type": "git",
